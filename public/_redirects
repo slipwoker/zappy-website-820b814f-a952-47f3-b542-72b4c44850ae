@@ -1,9 +1,9 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-03-14T03:18:54.632Z
+# Generated: 2026-03-14T14:24:55.851Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
-/watch  /watch.html  200!
+/watch.tonictvnet.com  /watch-tonictvnet-com.html  200!
 /festival  /festival.html  200!
 /contact  /contact.html  200!
 /privacy  /privacy.html  200!
