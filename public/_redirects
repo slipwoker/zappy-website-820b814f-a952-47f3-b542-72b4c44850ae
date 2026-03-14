@@ -1,10 +1,9 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-03-14T14:24:55.851Z
+# Generated: 2026-03-14T14:26:16.803Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
 /watch.tonictvnet.com  /watch-tonictvnet-com.html  200!
-/festival  /festival.html  200!
 /contact  /contact.html  200!
 /privacy  /privacy.html  200!
 /accessibility  /accessibility.html  200!
@@ -17,5 +16,5 @@
 
 /  /index.html  200!
 
-# SPA fallback - serve index.html for all unmatched routes
-/*  /index.html  200
+# Dynamic routes - serve dedicated HTML templates for dynamic paths
+/https/*  /https.html  200!
