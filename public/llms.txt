@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Tonic TV delivers original streaming entertainment, curates award-winning film festivals, and connects creators with audiences. Watch now on our network.
+
+### Watch
+https://example.com/watch
+Experience nfl network stream quality with Tonic TV&#39;s live broadcasts and on-demand library. Paramount network streaming meets indie creativity in one place.
+
+### Festival
+https://example.com/festival
+Tonic TV and Film Festival showcases emerging voices and bold storytelling. Join filmmakers from sxsw film festival circuits at our curated event.
+
+### Contact
+https://example.com/contact
+Ready to collaborate? Contact Tonic TV for network partnerships, festival sponsorships, merchandise licensing, or content distribution opportunities today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
